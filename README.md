@@ -9,11 +9,11 @@
 
 ---
 
-# TheAtlasGUI
+# AtlasGUI
 
 AtlasGUI is a robust and intuitive tool designed for seamless image and video processing on Windows. With its user-friendly interface, AtlasGUI simplifies running models for upscaling and interpolating tasks, including ESRGAN, RIFE, and CUGAN. 
 
-- TheAtlasGUI is inspired by TAS, known as [TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter). Please support the [author](https://github.com/NevermindNilas)!
+- AtlasGUI is inspired by TAS, known as [TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter). Please support the [author](https://github.com/NevermindNilas)!
 
 ## Features
 
