@@ -1,23 +1,23 @@
 <p align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fatlasfirarda%2FTheAtlasGUI%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fatlasfirarda%2FTheAtlasGUI%2F&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=none" /></a> 
-    <a href="https://github.com/atlasfirarda/TheAtlasGUI/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/atlasfirarda/TheAtlasGUI.svg?style=flat-square" /></a>
-    <a href="https://github.com/atlasfirarda/TheAtlasGUI/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/atlasfirarda/TheAtlasGUI/total.svg?style=flat-square&color=%2364ff82" /></a>
-    <a href="https://github.com/atlasfirarda/TheAtlasGUI/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NevermindNilas/TheAnimeScripter.svg?style=flat-square" /></a>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fatlasfirarda%2FTheAtlas%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fatlasfirarda%2FTheAtlas%2F&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=none" /></a> 
+    <a href="https://github.com/atlasfirarda/TheAtlas/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/atlasfirarda/TheAtlas.svg?style=flat-square" /></a>
+    <a href="https://github.com/atlasfirarda/TheAtlas/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/atlasfirarda/TheAtlas/total.svg?style=flat-square&color=%2364ff82" /></a>
+    <a href="https://github.com/atlasfirarda/TheAtlas/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NevermindNilas/TheAnimeScripter.svg?style=flat-square" /></a>
     <a href="https://discord.gg/YhuKGzNatA">
       <img src="https://img.shields.io/discord/1041502781808328704?label=Discord" alt="Discord Shield"/></a>
 </p>
 
 ---
 
-# AtlasGUI
+# TheAtlas
 
-AtlasGUI is a robust and intuitive tool designed for seamless image and video processing on Windows. With its user-friendly interface, AtlasGUI simplifies running models for upscaling and interpolating tasks, including ESRGAN, RIFE, and CUGAN. 
+ A robust and intuitive tool designed for seamless image and video processing on Windows. With its user-friendly interface, AtlasGUI simplifies running models for upscaling and interpolating tasks, including ESRGAN, RIFE, and CUGAN. 
 
-- AtlasGUI is inspired by TAS, known as [TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter). Please support the [author](https://github.com/NevermindNilas)!
+- TheAtlas is inspired by TAS, known as [TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter). Please support the [author](https://github.com/NevermindNilas)!
 
 ## Features
 
-- **Intuitive GUI**: User-friendly interfaces for easy navigation and operation.
+- **Intuitive Design**: User-friendly interfaces for easy navigation and operation.
 - **Comprehensive Toolset**: A wide range of tools for running various upscaling models on images and videos.
 - **Batch Processing**: Process multiple files at once to save time.
 - **Cross-Platform Compatibility**: Available for Windows with support for various file formats.
@@ -73,3 +73,4 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 ## Contact
 
 For support, please contact [atlasatakahraman.com@gmail.com](mailto:atlasatakahraman.com@gmail.com).
+
