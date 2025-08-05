@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=none" /></a> 
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F"><img src="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F"/></a> 
     <a href="https://github.com/atlasatakahraman/TheAtlas/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/atlasatakahraman/TheAtlas.svg?style=flat-square" /></a>
     <a href="https://github.com/atlasatakahraman/TheAtlas/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/atlasatakahraman/TheAtlas/total.svg?style=flat-square&color=%2364ff82" /></a>
     <a href="https://github.com/atlasatakahraman/TheAtlas/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NevermindNilas/TheAnimeScripter.svg?style=flat-square" /></a>
@@ -73,5 +73,6 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 ## Contact
 
 For support, please contact [atlasatakahraman.com@gmail.com](mailto:atlasatakahraman.com@gmail.com).
+
 
 
