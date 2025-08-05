@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F"><img src="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%atlasatakahraman%2FTheAtlas%2F"/></a> 
-    <a href="https://github.com/atlasatakahraman/TheAtlas/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/atlasatakahraman/TheAtlas.svg?style=flat-square" /></a>
-    <a href="https://github.com/atlasatakahraman/TheAtlas/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/atlasatakahraman/TheAtlas/total.svg?style=flat-square&color=%2364ff82" /></a>
-    <a href="https://github.com/atlasatakahraman/TheAtlas/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NevermindNilas/TheAnimeScripter.svg?style=flat-square" /></a>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas&label=VIEWS&labelColor=%232088ff&countColor=%23bbdde5" /></a>
+    <a href="https://github.com/atlasatakahraman/TheAtlas/releases/latest"> <img alt="Static Badge" src="https://img.shields.io/badge/views-%E2%96%BC-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=%23BBDDE5&logoSize=auto&label=DOWNLOAD%20LATEST&labelColor=%232088FF&color=%23BBDDE5&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas%2Freleases%2Flatest"></a>
+    <a href="https://github.com/atlasatakahraman/TheAtlas/releases"><img alt="Static Badge" src="https://img.shields.io/badge/views-%E2%96%BA-brightgreen?style=for-the-badge&logo=webpack&logoColor=%23BBDDE5&logoSize=auto&label=RELEASES&labelColor=%232088FF&color=%23BBDDE5&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas%2Freleases%2Flatest"></a>
+    <a href="https://github.com/atlasatakahraman/TheAtlas/commits"><img alt="Static Badge" src="https://img.shields.io/badge/views-%E2%96%BA-brightgreen?style=for-the-badge&logo=internetcomputer&logoColor=%23BBDDE5&logoSize=auto&label=COMMITS&labelColor=%232088FF&color=%23BBDDE5&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas%2Freleases%2Flatest"></a>
     <a href="https://discord.gg/YhuKGzNatA">
-      <img src="https://img.shields.io/discord/1041502781808328704?label=Discord" alt="Discord Shield"/></a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/views-%E2%96%B2-brightgreen?style=for-the-badge&logo=discord&logoColor=%23BBDDE5&logoSize=auto&label=JOIN%20DISCORD&labelColor=%232088FF&color=%23BBDDE5&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fatlasatakahraman%2FTheAtlas%2Freleases%2Flatest"></a>
 </p>
 
 ---
@@ -73,6 +73,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 ## Contact
 
 For support, please contact [atlasatakahraman.com@gmail.com](mailto:atlasatakahraman.com@gmail.com).
+
 
 
 
