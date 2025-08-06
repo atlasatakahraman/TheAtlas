@@ -35,16 +35,16 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/atlasfirarda/TheAtlasGUI.git
+   git clone https://github.com/atlasatakahraman/TheAtlas.git
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd TheAtlasGUI
+   cd TheAtlas
    ```
 
 3. **Run the Application**:
 
-   Execute `start-atlasgui.bat` to start the application ^^.
+   Execute `main.py` to start the application ^^.
 
 ## Contributing
 
@@ -73,6 +73,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 ## Contact
 
 For support, please contact [atlasatakahraman.com@gmail.com](mailto:atlasatakahraman.com@gmail.com).
+
 
 
 
