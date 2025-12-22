@@ -71,8 +71,8 @@ TheAtlas is designed with a **local-first philosophy**:
 
 For more details:
 
-* 📄 [Terms of Service](./terms.md)
-* 🔐 [Privacy Policy](./privacy.md)
+* 📄 [Terms of Service](./TERMS.md)
+* 🔐 [Privacy Policy](./PRIVACY.md)
 
 ---
 
