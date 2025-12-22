@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/TheAtlasB2048.png" alt="TheAtlas Logo" width="180" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Tauri-2.0-blue?style=for-the-badge&logo=tauri" />
   <img src="https://img.shields.io/badge/Rust-Backend-orange?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript" />
@@ -10,9 +6,15 @@
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" />
 </p>
 
+<p align="center">
+  <img src="./assets/TheAtlasB2048.png" alt="TheAtlas Logo" width="180" />
+</p>
+
 <h1 align="center">TheAtlas</h1>
 
-> **A Windows-focused desktop application built with TypeScript and Rust, combining modern UI/UX with AI features and advanced media downloading and conversion tools.**
+ **<p align="center">
+  A Windows-focused desktop application built with TypeScript and Rust, combining modern UI/UX with AI features and advanced media downloading and conversion tools.**
+</p>
 
 ---
 
