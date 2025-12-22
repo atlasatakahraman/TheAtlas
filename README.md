@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tauri-2.0-blue?style=for-the-badge&logo=tauri" />
   <img src="https://img.shields.io/badge/Rust-Backend-orange?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript" />
