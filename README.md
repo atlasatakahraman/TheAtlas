@@ -12,7 +12,7 @@
 
 <h1 align="center">TheAtlas</h1>
 
- **<p align="center">
+> **<p align="center">
   A Windows-focused desktop application built with TypeScript and Rust, combining modern UI/UX with AI features and advanced media downloading and conversion tools.**
 </p>
 
