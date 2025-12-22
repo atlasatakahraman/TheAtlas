@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/TheAtlasB2048.png" alt="TheAtlas Logo" width="150" />
+  <img src="./assets/TheAtlasB2048.png" alt="TheAtlas Logo" width="180" />
 </p>
 
 <h1 align="center">TheAtlas</h1>
